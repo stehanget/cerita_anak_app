@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855102469769",
+    "project_id": "cerita-anak-app",
+    "storage_bucket": "cerita-anak-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855102469769:android:8b0026864b1db671947858",
+        "android_client_info": {
+          "package_name": "id.codes.cerita_anak_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855102469769-2mlfaj2uvraban4q8fe2hb9crsds58do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApciN5bLofiJYRdspJ7VQZSW5WoxK-sVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855102469769-2mlfaj2uvraban4q8fe2hb9crsds58do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
